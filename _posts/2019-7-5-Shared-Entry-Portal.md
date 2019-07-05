@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shared Entry Point 2019
+title: Shared Entry Point
 ---
 
 # Shared Entry Point (Research)

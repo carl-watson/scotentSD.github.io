@@ -3,9 +3,6 @@ layout: post
 title: Shared Entry Point
 ---
 
----
-excerpt_separator: <!--more-->
----
 
 This is the home for all SEP (Shared Entry Point/Portal) Service Design info
 

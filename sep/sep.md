@@ -1,3 +1,9 @@
+---
+layout: page
+title: SEP
+permalink: /sep/
+---
+
 # Shared Entry Point (Research)
 ## Beta assesment Artefacts (Research)
 - [Customer Journey - Beta] ()

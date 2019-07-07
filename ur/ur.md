@@ -10,13 +10,13 @@ permalink: /ur/
 
 # Techniques
 - [Design Crits - GDS style](crits/)
-- [Service Landscape Diagrams](/techniques/landscape.md)
+- [Service Landscape Diagrams](techniques/landscape.md)
 
 # Customer 
-- [Customer Canvas](/techniques/CustomerCanvasV3.pdf)
-- [Pitch Canvas](/techniques/PitchCanvasV3.pdf)
-- [Hypothesis Card](/techniques/HypothesisCardV2.pdf)
-- [Learning Card](/techniques/LearningCardV2.pdf)
+- [Customer Canvas](techniques/CustomerCanvasV3.pdf)
+- [Pitch Canvas](techniques/PitchCanvasV3.pdf)
+- [Hypothesis Card](techniques/HypothesisCardV2.pdf)
+- [Learning Card](techniques/LearningCardV2.pdf)
 
 
 # Test rounds (To be moved to SEP reporitory)

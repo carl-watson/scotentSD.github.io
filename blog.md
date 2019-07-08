@@ -12,7 +12,3 @@ permalink: /blog/
     </li>
   {% endfor %}
 </ul>
-
-### Contact me
-[customerresearch@scotent.co.uk](mailto:customerresearch@scotent.co.uk)
-

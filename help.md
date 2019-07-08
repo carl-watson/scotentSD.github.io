@@ -5,18 +5,6 @@ permalink: /help/
 ---
 
 # Jekyll
-
-## Structure
-- Home
-- Blog
-- SEP
-- MAIDV (My Account)
-- FAS (Funding)
-- Techniques - User Research
-
-
-
-
 ## Techniques
 ### Blog
 The Blog page has code to display any posts in the posts folder
@@ -53,4 +41,13 @@ Add this line the `_config.yml` to enable the excerpt marker
 ``` 
 excerpt_separator: "<!--more-->" 
 ```
+
+## Structure
+- Home
+- Blog
+- SEP
+- MAIDV (My Account)
+- FAS (Funding)
+- Techniques - User Research
+
 

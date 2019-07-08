@@ -4,8 +4,7 @@ title: Help
 permalink: /help/
 ---
 
-# Jekyll
-## Techniques
+# Jekyll Stuff
 ### Blog
 The Blog page has code to display any posts in the posts folder
 ```
@@ -16,7 +15,7 @@ The Blog page has code to display any posts in the posts folder
     </li>
   {% endfor %}
 </ul> 
-```
+``` 
 
 ### Posts
 Put a markup file in the posts folder and name it in the format 

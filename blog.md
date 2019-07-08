@@ -15,3 +15,4 @@ permalink: /blog/
 
 ### Contact me
 [customerresearch@scotent.co.uk](mailto:customerresearch@scotent.co.uk)
+

@@ -5,7 +5,7 @@ permalink: /help/
 ---
 
 # Jekyll Stuff
-### Blog
+## Blog
 The Blog page has code to display any posts in the posts folder
 ```
  <ul>
@@ -17,7 +17,7 @@ The Blog page has code to display any posts in the posts folder
 </ul> 
 ``` 
 
-### Posts
+## Posts
 Put a markup file in the posts folder and name it in the format 
 'yyyy-mm-dd-title.md`
 Add some code to the start and it will then be listed as a `POST` on the `BLOG` page
@@ -41,7 +41,7 @@ Add this line the `_config.yml` to enable the excerpt marker
 excerpt_separator: "<!--more-->" 
 ```
 
-## Structure
+# Structure
 - Home
 - Blog
 - SEP

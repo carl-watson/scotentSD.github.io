@@ -50,5 +50,7 @@ Everything above the  `<!—more—> `code will be the excerpt
 ```
 
 Add this line the `_config.yml` to enable the excerpt marker
-``` excerpt_separator: "<!--more-->" ```
+``` 
+excerpt_separator: "<!--more-->" 
+```
 

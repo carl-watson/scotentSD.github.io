@@ -20,13 +20,15 @@ permalink: /help/
 ## Techniques
 ### Blog
 The Blog page has code to display any posts in the posts folder
-'<ul>
+'``
+<ul>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
+```
 
 ### Posts
 Put a markup file in the posts folder and name it in the format 
@@ -34,10 +36,12 @@ Put a markup file in the posts folder and name it in the format
 Add some code to the start and it will then be listed as a `POST` on the `BLOG` page
 
 Add this code to the header of the file to make it a POST 
-'''---
+```
+---
 layout: post
 title: Shared Entry Point
 ---
+```
 
 If an expert marker is defined in the `\_config.yml` file then you can mark a section of the post as the excerpt. 
 Everything above the  `<!—more—> `code will be the excerpt

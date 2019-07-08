@@ -30,7 +30,6 @@ The Blog page has code to display any posts in the posts folder
 </ul> 
 ```
 
-
 ### Posts
 Put a markup file in the posts folder and name it in the format 
 'yyyy-mm-dd-title.md`

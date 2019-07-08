@@ -4,7 +4,7 @@ title: Shared Entry Point
 ---
 
 
-This is the home for all SEP (Shared Entry Point/Portal) Service Design info
+This is the home for all SEP (Single Entry Point) Service Design info
 
 <!--more-->
 

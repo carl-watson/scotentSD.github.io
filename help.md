@@ -37,10 +37,10 @@ Add some code to the start and it will then be listed as a `POST` on the `BLOG` 
 
 Add this code to the header of the file to make it a POST 
 ``` 
----
-layout: post
-title: Shared Entry Point
---- 
+    ---
+    layout: post
+    title: Shared Entry Point
+    --- 
 ```
 
 If an expert marker is defined in the `\_config.yml` file then you can mark a section of the post as the excerpt. 
@@ -51,6 +51,6 @@ Everything above the  `<!—more—> `code will be the excerpt
 
 Add this line the `_config.yml` to enable the excerpt marker
 ``` 
-excerpt_separator: "<!--more-->" 
+    excerpt_separator: "<!--more-->" 
 ```
 

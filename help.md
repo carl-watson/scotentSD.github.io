@@ -20,7 +20,8 @@ permalink: /help/
 ## Techniques
 ### Blog
 The Blog page has code to display any posts in the posts folder
-``` <ul>
+```html
+ <ul>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>

@@ -45,8 +45,8 @@ title: Shared Entry Point
 
 If an expert marker is defined in the `\_config.yml` file then you can mark a section of the post as the excerpt. 
 Everything above the  `<!—more—> `code will be the excerpt
-''' 
-<!--more--> 
+```
+    <!--more--> 
 ```
 
 Add this line the `_config.yml` to enable the excerpt marker

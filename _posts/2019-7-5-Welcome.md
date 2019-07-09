@@ -4,14 +4,14 @@ title: Welcome to this new blog
 ---
 
 
-This is the Service Design blog
+This is the Scottish Enterprise Service Design blog
 
 <!--more-->
 
 # Design in the open
 
-The idea of this site is to foster a culture, of designing in open and transparent collaboration, with partners and customers.  
+1. The idea of this site is to foster a culture, of designing in open and transparent collaboration, with partners and customers.  
 
-We also want to share how we work and hope that this helps others with their projects.
+2. We also want to share how we work and hope that this helps others with their projects.
 
-At the same time we are super keen to hear where we could improve. It's a two way street :-)
+3. At the same time we are super keen to hear where we could improve. It's a two way street :-)

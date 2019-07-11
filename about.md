@@ -3,9 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+<div>
 This is the home of Service Design in Scottish Enterprise.
 
 It is here to make us more transparent and to help the sharing of information, practice and learning.
+</div>
 
 <div>
 We are keen to share how and what we are doing. Copy what you want and tell us if you know better ways of doing stuff :-)

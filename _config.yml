@@ -13,6 +13,12 @@ description: Designing in the open
 avatar: /images/saltire.png
 
 
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
+
 #
 # Flags below are optional
 #

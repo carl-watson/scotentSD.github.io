@@ -283,6 +283,55 @@ footer {
   text-align: center;
 }
 
+/************Timeline**************/
+/* Timeline Container */
+
+ol {
+	margin: 0;
+	padding: 0; }
+
+
+.timeline {
+	border-left: 5px solid #dddddd;
+	padding-bottom: 3em;
+	position: relative; }
+	.timeline:before {
+	  content: "";
+	  position: absolute;
+	  bottom: 0;
+	  left: -1.26em;
+	  width: 40px;
+	  height: 40px;
+	  border-radius: 40px;
+	  background: #dddddd;
+	  border: 5px solid #dddddd; }
+  
+  /* Individual Timeline Item */
+  .tl-node {
+	padding-left: 1em;
+	margin-bottom: 3em;
+	position: relative; }
+	.tl-node a {
+	  display: block; }
+	.tl-node:before {
+	  content: "";
+	  position: absolute;
+	  top: 0;
+	  left: -0.72em;
+	  width: 20px;
+	  height: 20px;
+	  border-radius: 20px;
+	  background: #fff;
+	  border: 5px solid #dddddd; }
+  
+  /* Timestamp */
+  .tl-stamp {
+	font-size: 0.7em;
+	color: gray; }
+  
+  /************End Timeline**************/
+
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";

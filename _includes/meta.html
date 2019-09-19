@@ -18,6 +18,9 @@
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
     <meta name="twitter:title" content="{{ page.title }}" />
+    {% else %}
+    <meta name="og:title" content="{{ site.name }}" />
+    <meta name="twitter:title" content="{{ site.name }}" />
     {% endif %}
     <meta name="twitter:image" content="https://repository-images.githubusercontent.com/195402283/b10f4280-dad4-11e9-8a10-b29d95157739" />
     

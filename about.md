@@ -21,7 +21,7 @@ There are areas for various Workstreams which will deep dive into their Research
 </p>
 
 <p>
-There is also a [Blog](https://scotentSD.github.io/blog/) that will cover a lot of the ongoing learning
+  There is also a <a href="https://scotentSD.github.io/blog/">blog</a> that will cover a lot of the ongoing learning
 </p>
 
-<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
+<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" style="flpat: left; margin-right: 12px;" /></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>

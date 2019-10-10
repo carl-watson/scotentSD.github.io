@@ -3,7 +3,7 @@ layout: post
 title: Designing in the open
 ---
 
-The Scottish Enterprise service design team is committed to designing in the open
+The [Scottish Enterprise service design team](https://scotentsd.github.io/) is committed to designing in the open
 
 <!--more-->
 

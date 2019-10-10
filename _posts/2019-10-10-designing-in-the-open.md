@@ -9,6 +9,8 @@ The Scottish Enterprise service design team is committed to designing in the ope
 
 ## What does design in the open mean?
 
+![Design in the open](/images/LeanAgileGlasgow_MK_and_DO.jpg)
+
 According to Brad Frost, [designing in the open](https://bradfrost.com/blog/post/designing-in-the-open/) means
 
 >sharing your work and/or process publicly as you undertake a design project

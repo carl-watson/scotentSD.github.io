@@ -81,6 +81,8 @@ Which is all good, but wasn't making a difference.
 
 ### Then we moved to the junkyard
 
+![A show & tell at our Paisley kunkyard](/images/IMG_0157.jpg)
+
 AKA our old Paisley office. A beautiful early 20th century building with lovely art deco tiling in the wally close and the shonkiest interior ever.
 
 We had the first floor. Half of it was off limits because, well, there were holes and stuff. And if you opened a window it might fall out onto the street and decapitate a passing buddy.

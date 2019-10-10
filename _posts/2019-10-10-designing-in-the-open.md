@@ -85,8 +85,19 @@ AKA our old Paisley office. A beautiful early 20th century building with lovely 
 
 We had the first floor. Half of it was off limits because, well, there were holes and stuff. And if you opened a window it might fall out onto the street and decapitate a passing buddy.
 
-But it was great. We had small teams and no communications overhead.
+But it was great. Apart from the trains.
+
+We were properly agile.
+
+We had small teams and no communications overhead.
 
 We had proper, actual, for real kanban boards that we actually stood in front of and talked about our work. Every day.
+There was loads of wall-space, and plenty of whiteboards
 
-It felt easy, and it felt natural.
+It felt easy, and it felt natural. It felt good.
+
+We plastered that place with post-its and ideas. Some of them came to fruition, most didn't.  Some of those that came to fruition worked, most didn't.
+
+We tried stuff, we discarded the stuff that wasn't working, we improved the stuff that was.
+
+And we got results.

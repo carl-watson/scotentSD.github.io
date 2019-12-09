@@ -1,7 +1,7 @@
 # Example 1
 Click each image to open a full-size version.
 ## Version 1
-<a href="https://scotentsd.github.io/Example%201/Reach%20international%20customers%20online%20-%20original%20version.pn" target="_blank">
+<a href="https://scotentsd.github.io/Example%201/Reach%20international%20customers%20online%20-%20original%20version.png" target="_blank">
   <img src="https://scotentsd.github.io/Example%201/Reach%20international%20customers%20online%20-%20original%20version.png" style="min-width: 80%" alt="Version 1">
 </a>
 

@@ -1,5 +1,5 @@
 # Example 2
-
+Click each image to open a full-size version.
 ## Version 1
 <a href="https://raw.githubusercontent.com/scotentSD/scotentSD.github.io/master/Example%202/v1.png" target="_blank">
   <img src="https://raw.githubusercontent.com/scotentSD/scotentSD.github.io/master/Example%202/v1.png" alt="Version 1">

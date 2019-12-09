@@ -1,7 +1,7 @@
-#Example 1
+# Example 1
 ## Version 1
-![Version 1](Reach international customers online - original version.png)
+<img src="https://scotentsd.github.io/Example%201/Reach%20international%20customers%20online%20-%20original%20version.png" style="min-width: 80%" alt="Version 1">
 ## Version 2
-![Version 2](Reach international customers online - v2.png)
+<img src="https://scotentsd.github.io/Example%201/Reach%20international%20customers%20online%20-%20v2.png" style="min-width: 80%" alt="Version 2">
 ## Version 3
-![Version 3](Reach international customers online - v5.png)
+<img src="https://scotentsd.github.io/Example%201/Reach%20international%20customers%20online%20-%20v5.png" style="min-width: 80%" alt="Version 3">

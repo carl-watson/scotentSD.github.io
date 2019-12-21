@@ -25,6 +25,5 @@ There are areas for various Workstreams which will deep dive into their Research
 </p>
 
 <p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0; float: left; margin-right: 12px;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
-<br><br>
-<div>Last updated: {{site.time | date_to_string}}</div>
+
 

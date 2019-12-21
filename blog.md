@@ -12,4 +12,7 @@ permalink: /blog/
     </li>
   {% endfor %}
 </ul>
+<br><br>
+<div>Last updated: {{site.time | date_to_string}}</div>
+
 

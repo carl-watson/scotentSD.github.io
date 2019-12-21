@@ -47,4 +47,7 @@ excerpt_separator: "<!--more-->"
 - FAS (Funding)
 - Techniques - User Research
 
+<br><br>
+<div>Last updated: {{site.time | date_to_string}}</div>
+
 

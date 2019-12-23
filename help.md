@@ -7,13 +7,14 @@ permalink: /help/
 ## Blog
 The Blog page has code to display any posts in the **posts** folder. The default layout is in the **Layout** folder: post.html
 ```
- <ul>
+<ul>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
     </li>
   {% endfor %}
-</ul> 
+</ul>
 ``` 
 
 
@@ -56,13 +57,13 @@ excerpt_separator: "<!--more-->"
 - Blog
 - Help
 
-###From the homepage
+**From the homepage:**
 
-####Worstreams
+**Worstreams**
 - SEP
 - International Networks
 
-####Learning, resources and techniques
+**Learning, resources and techniques**
 - Practice and Techniques
 - Posters
 - Resources

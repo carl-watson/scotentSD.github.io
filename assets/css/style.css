@@ -1,6 +1,6 @@
 
 @import "jekyll-theme-slate";
-@import "variables";
+
 
 /******************************* changes from the main theme *********************************/
 
@@ -64,15 +64,15 @@ a {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: #ddd;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
-  background: $lightGray;
+  color: #fff;
+  background: #ddd;
 }
 ::selection {
-  color: $black;
-  background: $lightGray;
+  color: #fff;
+  background: #ddd;
 }

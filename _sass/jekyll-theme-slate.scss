@@ -98,7 +98,8 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #00427f;
+  color: #0258a6; // was #00427f; still gets AAA rating
+  font-weight: 500; // was normal 400 burt help for readability of the text link
   text-shadow: none;
 
   transition: color 0.5s ease;

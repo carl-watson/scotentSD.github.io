@@ -7,7 +7,8 @@ permalink: /help/
 ## Blog
 The Blog page has code to display any posts in the **posts** folder. The default layout is in the **Layout** folder: post.html
 
-![alt text](https://github.com/scotentSD/scotentSD.github.io/blob/master/images/blogpost-code.PNG "lines of code to display each blogpost")
+![Design in the open](/images/blogpost-code.PNG)
+
 
 ## Creating a Blog post
 Create a markup file in the posts folder and name it in the format :

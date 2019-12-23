@@ -26,7 +26,7 @@ There are areas for various Workstreams which will deep dive into their Research
 
 <br>
 ## To contact us
-[CustomerResearch@scotent.co.uk](mailto:CustomerResearch@scotent.co.uk?Subject=Contact%20via%20Design-in-the-open%200Design-in-the-open%20website)
+[CustomerResearch@scotent.co.uk](mailto:CustomerResearch@scotent.co.uk?Subject=Contact%20via%20Design-in-the-open%20website)
 
 <br>
 <br>

@@ -16,7 +16,6 @@ This is the Scottish Enterprise Service Design blog
 
 3. At the same time we are super keen to hear where we could improve. It's a two way street :-)
 
-<br>
-<p><strong>To contact us:</strong><p>
+## To contact us
 <p><a href="mailto:CustomerResearch@scotent.co.uk?Subject=Contact%20via%20Design-in-the-open%20blog">CustomerResearch@scotent.co.uk</a></p>
 <br>

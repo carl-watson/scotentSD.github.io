@@ -437,9 +437,17 @@ Small Device Styles
   }
 
   #project_title {
-  font-size: 32px;
+  font-size: 26px; // was 32px; avoid wrapping on small screen - still quite big
   }
 
+  #project_tagline {
+  font-size: 22px; // was 24px; like on big screens, changed as we changed the title, to keep the contrast in size
+  }
+
+  nav a {
+  font-size: 22px; //  was 24px; like on big screens, changed as we changed the title, to keep the contrast in size
+  }
+  
   h1 {
     font-size: 28px;
   }

@@ -6,17 +6,8 @@ permalink: /help/
 
 ## Blog
 The Blog page has code to display any posts in the **posts** folder. The default layout is in the **Layout** folder: post.html
-```
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
-``` 
 
+![alt text](https://github.com/scotentSD/scotentSD.github.io/blob/master/images/blogpost-code.PNG "lines of code to display each blogpost")
 
 ## Creating a Blog post
 Create a markup file in the posts folder and name it in the format :

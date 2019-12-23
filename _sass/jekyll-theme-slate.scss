@@ -536,3 +536,17 @@ Helper
   display: table;
 }
 
+.date {
+  font-style: italic;
+  color: #666;
+  padding-top: 10px;
+}
+
+/* Specify the color of the selection */
+::-moz-selection {
+  color: #000;
+  background: #ddd;
+}
+::selection {
+  color: #000;
+  background: #ddd;

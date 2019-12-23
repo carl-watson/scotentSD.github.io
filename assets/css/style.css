@@ -1,4 +1,78 @@
----
----
 
 @import "jekyll-theme-slate";
+@import "variables";
+
+/******************************* changes from the main theme *********************************/
+
+a {
+    text-decoration: none;
+    color: #0258a6; /* was #00427f; still gets AAA rating */
+    font-weight: 500; /* was normal 400 but help for readability of the text link */
+  }
+
+  footer a:hover, footer a:focus {
+    text-decoration: underline;
+    color: #ffffff ; /* was #2980b9 and not contrasted enough - SK */
+    font-weight: 600 ; /* wasn't there - to add to the difference of colour */
+  }
+
+  nav {
+    float: right;
+  }
+  
+  nav a {
+    color: #F2F2F2;
+    padding: 0 10px;
+    font-size: 24px;
+    font-weight: 600;
+    text-decoration: none;
+  }
+  
+  nav a:hover, nav a:focus {
+    text-decoration: underline;
+    color: #ffffff ;
+    font-weight: 700;
+  }
+
+  /**** for small screens ****/
+
+  @media (max-width: 480px) {
+    #project_title {
+        font-size: 26px; /* was 32px; avoid wrapping on small screen - still quite big */
+        }
+    }
+  @media (max-width: 480px) {
+        #project_tagline {
+        font-size: 22px; /* was 24px; like on big screens, changed as we changed the title, to keep the contrast in size */
+        }
+    }
+  @media (max-width: 480px) {
+        nav a {
+        font-size: 22px; /*  was 24px; like on big screens, changed as we changed the title, to keep the contrast in size */
+        }
+    }
+    
+/*******************************    Helper      ******************/
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+
+/*******************************  added from previous styles file ****************************/
+
+.date {
+  font-style: italic;
+  color: $gray;
+}
+
+// Specify the color of the selection
+::-moz-selection {
+  color: $black;
+  background: $lightGray;
+}
+::selection {
+  color: $black;
+  background: $lightGray;
+}

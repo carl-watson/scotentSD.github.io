@@ -448,6 +448,11 @@ Small Device Styles
   font-size: 22px; //  was 24px; like on big screens, changed as we changed the title, to keep the contrast in size
   }
   
+  #main_content {
+  line-height: 2; // this wasn't here, it's to leave more room between lines, especially when there are links to tap
+  }
+  
+  
   h1 {
     font-size: 28px;
   }
@@ -493,7 +498,7 @@ Small Device Styles
   }
 
   #project_title {
-  font-size: 28px;
+  font-size: 26px; // was 28px;
   }
 
   h1 {

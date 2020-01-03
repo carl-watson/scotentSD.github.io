@@ -557,6 +557,12 @@ Helper
   background: #ddd;
 }
 
+iframe, video {
+  @media only screen and (max-width: 560px) {
+  width: 100%;
+  }
+}
+
 /* add special colours to reflect Lou Downe Good services book */
 // orange text against dark background
 .lou {

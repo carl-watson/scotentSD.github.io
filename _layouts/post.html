@@ -1,5 +1,7 @@
 ---
 layout: default
+author:  # this is optional
+tags:  # need to agree a list?  should be as a list as there can be more than one?  ['a11y', 'usability-testing']
 ---
 
 <article class="post">
@@ -10,7 +12,13 @@ layout: default
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    <br>
+    Written on {{ page.date | date: "%B %e, %Y" }} {% if post.author %} by {{post.author}} {% endif %}<br>
+    {% if post.tags %} Tags: 
+        {% for tag in post.tags %} 
+            <span> {{ tag }} </span>
+        {% endfor %}
+    {% endif %}                                                                                                  
   </div>
 
   {% include disqus.html %}

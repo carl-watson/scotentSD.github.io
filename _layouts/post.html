@@ -13,9 +13,9 @@ tags:  # need to agree a list?  should be as a list as there can be more than on
 
   <div class="date">
     <br>
-    Written on {{ page.date | date: "%B %e, %Y" }} {% if post.author %} by {{post.author}} {% endif %}<br>
-    {% if post.tags %} Tags: 
-        {% for tag in post.tags %} 
+    Written on {{ page.date | date: "%B %e, %Y" }} {% if page.author %} by {{page.author}} {% endif %}<br>
+    {% if page.tags %} Tags: 
+        {% for tag in page.tags %} 
             <span> {{ tag }} </span>
         {% endfor %}
     {% endif %}                                                                                                  

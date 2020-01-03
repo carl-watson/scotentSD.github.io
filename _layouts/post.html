@@ -16,12 +16,17 @@ tags:  # need to agree a list?  should be as a list as there can be more than on
     Written on {{ page.date | date: "%B %e, %Y" }} {% if page.author %} by {{page.author}} {% endif %}                                                                                             
   </div>
   <div>
-     {% if page.tags %} Tags: 
+     {% if page.tags != [] %} Tags: 
         {% for tag in page.tags %} 
             <code class="language-plaintext highlighter-rouge"> {{ tag }} </code>
         {% endfor %}
     {% endif %}    
   </div>
-
+  <div>
+  {% if page.previous %} <a href="{{ page.previous }}">Return to previous post {% endif %}
+  </div>
+  <div>
+  {% if page.next %} <a href="{{ page.next }}">Go to next post {% endif %}
+  </div>
   {% include disqus.html %}
 </article>

@@ -556,3 +556,25 @@ Helper
   color: #000;
   background: #ddd;
 }
+
+/* add special colours to reflect Lou Downe Good services book */
+// orange text against dark background
+.lou {
+    background-color: #1a1a1a;
+    color: #fb5b5f;    
+}
+// yellow text against dark background
+.lou-y {
+    background-color: #1a1a1a;
+    color: #fdd73d;    
+}
+// green text against dark background
+.lou-g {
+    background-color: #1a1a1a;
+    color: #01b299;    
+}
+// give a bit of padding
+span.lou, span.lou-y, span.lou-g {
+    padding: 3px 5px;
+    margin: 2px auto;
+}

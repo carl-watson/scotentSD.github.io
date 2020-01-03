@@ -23,10 +23,10 @@ tags:  # need to agree a list?  should be as a list as there can be more than on
     {% endif %}    
   </div>
   <div>
-  {% if page.previous %} <a href="{{ page.previous }}">Return to previous post {% endif %}
+  {% if page.previous %} <a href="{{ paginator.previous_page_path }}">Return to previous post {% endif %}
   </div>
   <div>
-  {% if page.next %} <a href="{{ page.next }}">Go to next post {% endif %}
+  {% if page.next %} <a href="{{ paginator.next_page_path }}">Go to next post {% endif %}
   </div>
   {% include disqus.html %}
 </article>

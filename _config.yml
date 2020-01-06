@@ -10,7 +10,7 @@ description: Designing in the open
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: /images/Octocat.png
-#avatar: https://scotentsd.github.io/images/saltire.png
+avatar: https://scotentsd.github.io/images/saltire.png
 
 # Adding Paginator variables  for the Blog  // see https://devhints.io/jekyll and https://jekyllrb.com/docs/pagination/
 paginate: 1 # only one post per page

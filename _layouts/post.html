@@ -17,8 +17,7 @@ tags:  # need to agree a list?  should be as a list as there can be more than on
   </div>
   <div>  
       <br><!-- just to test-->
-    {% if (page.tags == nil ) %} *{{page.tags}}*<!-- do nothing -->
-        {% else %} <span style="color : #eeeeee">Tags:</span>
+    {% if (page.tags != [] ) %}Tags:
         {% for tag in page.tags %}     
             <code class="language-plaintext highlighter-rouge"> {{ tag }} </code>        
         {% endfor %}    

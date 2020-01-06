@@ -4,6 +4,7 @@
 MeyerWeb Reset
 *******************************************************************************/
 
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -47,7 +48,7 @@ body {
   box-sizing: border-box;
   color:#373737;
   background: #212121;
-  font-size: 18px; // SK was 16px
+  font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
@@ -98,8 +99,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #0258a6; // was #00427f; still gets AAA rating
-  font-weight: 500; // was normal 400 burt help for readability of the text link
+  color: #00427f;
   text-shadow: none;
 
   transition: color 0.5s ease;
@@ -122,12 +122,6 @@ a:hover, a:focus {
 footer a {
   color: #F2F2F2;
   text-decoration: underline;
-}
-
-footer a:hover, footer a:focus {
-  text-decoration: underline;
-  color: #ffffff ; // was #2980b9 and not contrasted enough - SK
-  font-weight: 600 ; // wasn't there - to add to the difference of colour
 }
 
 em, cite {
@@ -267,7 +261,7 @@ td {
  }
 
 form {
-  background: #f9f9f9;
+  background: #f2f2f2;
   padding: 20px;
 }
 
@@ -313,27 +307,6 @@ Full-Width Styles
 #header_wrap .inner {
   padding: 10px 10px 10px 10px;
 }
-
-/********************************** SK: add the nav element for blog, About and Help */
-nav {
-  float: right;
-}
-
-nav a {
-  color: #F2F2F2;
-  padding: 0 10px;
-  font-size: 24px;
-  font-weight: 600;
-  text-decoration: none;
-}
-
-nav a:hover, nav a:focus {
-  text-decoration: underline;
-  color: #fb5b5f; // change to test #ffffff ;
-  font-weight: 700;
-}
-
-/********************************** end of add for full size screen */
 
 #project_title {
   margin: 0;
@@ -391,7 +364,7 @@ nav a:hover, nav a:focus {
 }
 
 #main_content_wrap {
-  background: #f9f9f9;
+  background: #f2f2f2;
   border-top: 1px solid #2f3e44;
   border-bottom: 1px solid #2f3e44;
 }
@@ -437,22 +410,9 @@ Small Device Styles
   }
 
   #project_title {
-  font-size: 26px; // was 32px; avoid wrapping on small screen - still quite big
+  font-size: 32px;
   }
 
-  #project_tagline {
-  font-size: 22px; // was 24px; like on big screens, changed as we changed the title, to keep the contrast in size
-  }
-
-  nav a {
-  font-size: 22px; //  was 24px; like on big screens, changed as we changed the title, to keep the contrast in size
-  }
-  
-  #main_content {
-  line-height: 2; // this wasn't here, it's to leave more room between lines, especially when there are links to tap
-  }
-  
-  
   h1 {
     font-size: 28px;
   }
@@ -498,7 +458,7 @@ Small Device Styles
   }
 
   #project_title {
-  font-size: 26px; // was 28px;
+  font-size: 28px;
   }
 
   h1 {
@@ -531,56 +491,4 @@ Small Device Styles
     font-size: 11px;
   }
 
-}
-/*******************************************************************************
-Helper
-*******************************************************************************/
-.clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-.date {
-  font-style: italic;
-  color: #666;
-  padding-top: 10px;
-}
-
-/* Specify the color of the selection */
-::-moz-selection {
-  color: #000;
-  background: #ddd;
-}
-::selection {
-  color: #000;
-  background: #ddd;
-}
-
-iframe, video {
-  @media only screen and (max-width: 560px) {
-  width: 100%;
-  }
-}
-
-/* add special colours to reflect Lou Downe Good services book */
-// orange text against dark background
-.lou {
-    background-color: #1a1a1a;
-    color: #fb5b5f;    
-}
-// yellow text against dark background
-.lou-y {
-    background-color: #1a1a1a;
-    color: #fdd73d;    
-}
-// green text against dark background
-.lou-g {
-    background-color: #1a1a1a;
-    color: #01b299;    
-}
-// give a bit of padding
-span.lou, span.lou-y, span.lou-g {
-    padding: 3px 5px;
-    margin: 2px auto;
 }

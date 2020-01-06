@@ -17,14 +17,13 @@ tags:  # need to agree a list?  should be as a list as there can be more than on
   </div>
   <div>  
       <br><!-- just to test-->
-    {% if page.tags %}<!-- Tags: -->
-    <!-- for some reason 'page.tags' doesn't seem to be 'false' even when set to false by default ...  so removing the label 'Tags' at the start of the line before the tags when they do exist -->
+    {% if page.tags == null %}No tags.
+    {% else %}
         {% for tag in page.tags %}     
             <code class="language-plaintext highlighter-rouge"> {{ tag }} </code>        
         {% endfor %}    
     {% endif %}          
   </div>
-
 
   {% include disqus.html %}
 </article>

@@ -19,13 +19,17 @@
             <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           </a>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+          
+          {% if site.url='http://scotentSD.github.io' %}  
           <nav>
             <a href="https://scotentsd.github.io/">Home</a>
             <a href="https://scotentsd.github.io/about">About</a>
             <a href="https://scotentsd.github.io/blog">Blog</a>
             <a href="https://scotentsd.github.io/help">Help</a>
           </nav>
-        </header>
+          {% endif %}
+      
+      </header>
     </div>
     
     

@@ -3,7 +3,7 @@ layout: post
 title: Making our social media communications accessible
 author: Stéphanie
 tags: ['a11y', 'communication']
-published: false
+published: true
 ---
 
 To reach our audience, we need to do better to make sure everyone can access our posts on social media. 

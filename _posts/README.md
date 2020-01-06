@@ -21,7 +21,7 @@ layout: post
 title: Welcome to this new blog
 author: # (this is optional)
 tags:  # to discuss, optional as a list:  ['a11y', 'communication', 'pattern'] for example  
-published:  # if you don't want it to be displayed yet, then the value should be **false** - otherwise put **true** or ommit the line all together
+published:  # if you don't want it to be displayed yet, then the value should be false - otherwise put true or ommit the line all together
 ---
 ```
 

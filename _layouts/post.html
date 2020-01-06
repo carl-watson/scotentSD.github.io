@@ -15,6 +15,15 @@ tags:  # need to agree a list?  should be as a list as there can be more than on
     <br>
     Written on {{ page.date | date: "%B %e, %Y" }} {% if page.author %} by {{page.author}} {% endif %}                                                                                             
   </div>
+  <div>  
+    <span style="color : #cccccc">Tags:    {{page.tag}} </span>  <br><!-- just to test-->
+    {% if (page.tags != []) %}
+        {% for tag in page.tags %}     
+            <code class="language-plaintext highlighter-rouge"> {{ tag }} </code>        
+        {% endfor %}    
+    {% endif %}          
+  </div>
+
 
   {% include disqus.html %}
 </article>

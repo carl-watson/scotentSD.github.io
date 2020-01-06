@@ -1,7 +1,8 @@
 ---	
 ---
 
-@import "jekyll-theme-slate";
+@import "jekyll-theme-slate-original";
+@import "changes-to-the-main-theme";
 
 /**** for some reason the code below is not used ..... *****/
 

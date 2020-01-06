@@ -25,8 +25,12 @@ At the top of your file, add the following lines:
 ---
 layout: post
 title: Welcome to this new blog
+author: # (this is optional)
+tags:  # to discuss, optional as a list:  ['a11y', 'communication', 'pattern'] for example  
+published:  # if you don't want it to be displayed yet, then the value should be false - otherwise put true or ommit the line all together
 ---
 ```
+
 
 This will give the correct layout for your post, and use that title for the blog post itself and for it to be listed with the other blog post on the main blog page.
 

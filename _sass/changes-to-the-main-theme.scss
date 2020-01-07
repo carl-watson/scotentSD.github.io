@@ -1,5 +1,8 @@
 /*******************************************************************************
-changes to the Jekyll theme slate
+changes to the Jekyll theme slate 
+- this file doesn't seem to be used when mentionned as an import in the style.css file
+I've tried to so a style.scss file and it's ignored
+
 *******************************************************************************/
 
 body {
@@ -13,7 +16,7 @@ a {
 }
 
 footer a:hover, footer a:focus {
-  color:  #01b299; // to test was #ffffff ; // was #2980b9 and not contrasted enough - SK
+  color: #ffffff ; // was #2980b9 intially and not contrasted enough - SK
   font-weight: 600 ; // wasn't there - to add to the difference of colour
 }
 

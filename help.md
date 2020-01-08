@@ -118,8 +118,8 @@ Part of the code can also be in the folder `includes`. At the moment, you will f
 ## Looking for a template?
 Check the `Resources` repository first (the generic ones are there) or folders named **templates** or **drafts** in other repositories
 
-## Structure (on the 24/12/19)
-- Home
+## Structure (on the 08/01/20)
+Navigation menu:
 - About
 - Blog
 - Help
@@ -131,6 +131,7 @@ Check the `Resources` repository first (the generic ones are there) or folders n
 - International Networks
 
 **Learning, resources and techniques**
+- Accessibility
 - Practice and Techniques
 - Posters
 - Resources

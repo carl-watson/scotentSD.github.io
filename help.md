@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Help for our service design team
+title: Help for our team
 permalink: /help/
 ---
 

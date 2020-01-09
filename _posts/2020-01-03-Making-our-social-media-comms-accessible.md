@@ -31,7 +31,7 @@ For example: **#ThisIsHowtoFormatAnAccessibleHashtag**
 
 ## Caption videos and multimedia
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LCZ-cxfxzvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Creating captions and subtitles" width="560" height="315" src="https://www.youtube.com/embed/LCZ-cxfxzvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 More [advice from the Paciello group here](https://developer.paciellogroup.com/blog/2019/07/captions-and-transcripts-and-audio-descriptions-oh-my/).
 
@@ -50,7 +50,7 @@ It’s harder for everyone to read. The ‘shape’ of a word help readers to id
 ## How people with disabilities use tech
 
 **How does a blind person use Twitter?**
-<iframe width="560" height="322" src="https://www.youtube.com/embed/DgLLti7pCZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Using Twitter with a Screen Reader and VoiceOver" width="560" height="322" src="https://www.youtube.com/embed/DgLLti7pCZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **[How does a deaf or hard of hearing person uses technology?](https://www.levelaccess.com/understanding-assistive-technology-how-does-a-deaf-or-hard-of-hearing-person-use-technology/)**
 

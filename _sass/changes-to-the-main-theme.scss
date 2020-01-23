@@ -6,6 +6,12 @@ body {
   font-size: 18px; // SK was 16px
 }
 
+#main_content_wrap {
+  background: #fdfdfd ; // was #f2f2f2 but if it's lighter, it's easier to read, especially when the text is a link - only AA for accessibility - now AAA
+}
+form {
+  background: #fdfdfd ; // was #f2f2f2 and only AA for accessibility - now AAA 
+}
 
 a {
   color: #0258a6; // was #00427f; still gets AAA rating

@@ -4,14 +4,16 @@ title: Blog
 permalink: /blog-post-list/
 ---
 
-<ul>
+
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <div class="date">	
+            Written on {{ post.date | date_to_string }} {% if post.author %} by {{post.author}} {% endif %}          	
+       </div>	
       {{ post.excerpt }}
-    </li>
+      <hr>
   {% endfor %}
-</ul>
+
 <br><br>
 <div>Last updated: {{site.time | date_to_string}}</div>
 

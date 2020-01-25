@@ -33,7 +33,7 @@ Well, we're a public body, so why shouldn't the ouputs of our work be available 
 
 But the process brings many benefits:
 
-– Faster (potentially instantaneous) feedback
+- Faster (potentially instantaneous) feedback
 - Feedback from a wider group
 - Generating buy-in from the community and stakeholders
 - Demonstrating our commitment (and work in progress)

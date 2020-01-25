@@ -31,26 +31,28 @@
         <a href="https://scotentsd.github.io/">Home</a> &gt; <a href="https://scotentsd.github.io/blog-post-list/">Blog post list</a>
                {% if page.title %}  &gt; {{ page.title }}  {% endif %}
         </div>
+       
+          <h1>{{ page.title }}</h1>
         
-         <h1>{{ page.title }}</h1>
+           {{ content }}
         
-        {{ content }}
+          <div class="date">	
+            <br>	
+            Written on {{ page.date | date_to_string }} {% if page.author %} by {{page.author}} {% endif %}                                                                                             	
+          </div>	
+          <div>  	
+              <br><!-- just to test-->	
+            {% if page.tags == null %}No tags. <!-- don't seem to work -->	
+            {% else %}	
+                {% for tag in page.tags %}     	
+                    <code class="language-plaintext highlighter-rouge"> {{ tag }} </code>        	
+                {% endfor %}    	
+            {% endif %}          	
+          </div>
+
       </section>
     </div>
 
-      <div class="date">	
-      <br>	
-      Written on {{ page.date | date_to_string }} {% if page.author %} by {{page.author}} {% endif %}                                                                                             	
-    </div>	
-    <div>  	
-        <br><!-- just to test-->	
-      {% if page.tags == null %}No tags. <!-- don't seem to work -->	
-      {% else %}	
-          {% for tag in page.tags %}     	
-              <code class="language-plaintext highlighter-rouge"> {{ tag }} </code>        	
-          {% endfor %}    	
-      {% endif %}          	
-    </div>
 
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">

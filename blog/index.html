@@ -5,21 +5,7 @@ title: Blog
 
   <div style="float: right">
       <a href="https://scotentsd.github.io/blog-post-list/">See the list of blog posts</a>
-  </div>
-    <!-- Pagination links -->
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="previous">
-        Previous
-      </a>
-    {% endif %}
-      post: {{ paginator.page }} of {{ paginator.total_pages }}
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="next">Next </a>
-    {% endif %}
-  </div>
-
-      
+  </div>      
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}

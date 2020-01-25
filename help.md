@@ -32,10 +32,10 @@ published:  # if you don't want it to be displayed yet, then the value should be
 ```
 
 
-This will give the correct layout for your post, and use that title for the blog post itself and for it to be listed with the other blog post on the main blog page.
+This will give the correct layout for your post, and use that title for the blog post itself and for it to be listed with the other blog posts.
 
 If an excerpt marker is defined in the `\_config.yml` file then you can mark a section of the post as the excerpt. 
-Everything above the  `<!—more—> `code will be the summary we can see on the main blog page. Anything below can only be seen if you click on the blog post link.
+Everything above the  `<!—more—> `code will be the summary we can see on the [list of blog posts](https://scotentsd.github.io/blog-post-list/). Anything below can only be seen if you click on the blog post link.
 
 
 `<!--more--> `
@@ -124,6 +124,10 @@ Part of the code can also be in the folder `includes`. At the moment, you will f
 ## Looking for a template?
 Check the `Resources` repository first (the generic ones are there) or folders named **templates** or **drafts** in other repositories
 
+If you want to **create a whole new project space**, than use the [Resource repository](https://github.com/scotentSD/resources) and from there select the green button like on the picture below 'Use this template' . This will then guide you to make a new repository with the same files and folder structure.
+
+![acreenshot of the Github repository showing the menu buttons](/images/show-use-this-template-button.png)
+
 ## Structure (on the 08/01/20)
 Navigation menu:
 - About
@@ -148,6 +152,35 @@ Navigation menu:
 [Cheatsheet for markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 Also have a look at the [Resources](https://scotentsd.github.io/resources/)
+
+## How the blog is structured (25/01/2020)
+By default, when you select **Blog** in the navigation menu, you get the latest blog displayed on the page, with a link at the top which could take you to the page with the list of blog posts. You can also navigate to the previous or next blog post. 
+This pagination is using Jekyll variable (Paginator). There is no easy way to display the title of the previous / next post instead of providing a link to it.
+
+[More on the Jekyll variables](https://jekyllrb.com/docs/variables/)
+
+### From the list of blog posts
+If you navigate the blog posts that way, then [from here](https://scotentsd.github.io/blog-post-list/), you see the titles of the posts, the excerpt for it, and can select the title to see the whole post. At the top of the post, the breadcrumbs can take you back to the list.
+
+### Important files for the blog
+- the CSS is the same as the whole website, some changes are in the [changes-to-the-main-theme.scss](https://github.com/scotentSD/scotentSD.github.io/blob/master/_sass/changes-to-the-main-theme.scss)
+- the display of a blog post is coming from the layout for it: [post.html](https://github.com/scotentSD/scotentSD.github.io/blob/master/_layouts/post.html) this is all html instead of adding to the default layout because we had to modify the breadcrumbs in this one.
+- the page with the list of blog posts is: [blog-post-list.md](https://github.com/scotentSD/scotentSD.github.io/blob/master/blog-post-list.md) 
+- the page called when you select **Blog** in the navigation menu has to be an [index.html](https://github.com/scotentSD/scotentSD.github.io/blob/master/blog/index.html) file for the [Jekyll pagination variables](https://jekyllrb.com/docs/variables/#paginator) to work. So this file is in a folder called Blog. 
+- every files for the blog posts are in the folder [posts](https://github.com/scotentSD/scotentSD.github.io/tree/master/_posts)
+
+### Where to put the images for your blog post
+Images for the blog posts should be in [images](https://github.com/scotentSD/scotentSD.github.io/tree/master/images)
+ 
+Note: if your **blog post is going to have a lot of images**, then it's best to create a folder for the post itself in the images folder, then in the blog post, when you need the path for your image, remember to use: 
+
+`![alt text for your image ](/images/name of your new folder/image file name.png)`
+
+_If you folder as a space in it's name, the path name will need to have %20 instead of the space. For example, for the **tube map** folder, the path for the image is /images/tube%20map/_
+
+
+
+
 <br><br>
 <div>Last updated: {{site.time | date_to_string}}</div>
 

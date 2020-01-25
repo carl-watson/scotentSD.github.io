@@ -11,7 +11,6 @@ permalink: /blog-post-list/
             Written on {{ post.date | date_to_string }} {% if post.author %} by {{post.author}} {% endif %}          	
        </div>	
       {{ post.excerpt }}
-      <hr>
   {% endfor %}
 
 <br><br>

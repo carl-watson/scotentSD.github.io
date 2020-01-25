@@ -3,7 +3,7 @@ layout: page
 title: Blog
 permalink: /blog-post-list/
 ---
-
+<br>
 <ul>
   {% for post in site.posts %}
       <li>

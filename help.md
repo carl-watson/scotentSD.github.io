@@ -198,7 +198,7 @@ If you navigate the blog posts that way, then [from here](https://scotentsd.gith
 - every files for the blog posts are in the folder [posts](https://github.com/scotentSD/scotentSD.github.io/tree/master/_posts)
 
 ### Where to put the images for your blog post
-Images for the blog posts should be in [images](https://github.com/scotentSD/scotentSD.github.io/tree/master/images)
+Images for the blog posts should be in the [images](https://github.com/scotentSD/scotentSD.github.io/tree/master/images) folder
  
 Note: if your **blog post is going to have a lot of images**, then it's best to create a folder for the post itself in the images folder, then in the blog post, when you need the path for your image, remember to use: 
 

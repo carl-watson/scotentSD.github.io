@@ -4,6 +4,18 @@ title: Help for our team
 permalink: /help/
 ---
 
+## Quick access
+- [Blog](https://scotentsd.github.io/help/#blog)
+- [Creating a blog post](https://scotentsd.github.io/help/#creating-a-blog-post)
+- [CSS in the  default layout](https://scotentsd.github.io/help/#css-in-the--default-layout)
+- [Project timeline](https://scotentsd.github.io/help/#project-timeline)
+- [Posts for the project timelines](https://scotentsd.github.io/help/#posts-for-the-project-timelines)
+- [HTLM Changes to the Header and footer - Includes](https://scotentsd.github.io/help/#htlm-changes-to-the-header-and-footer----includes)
+- [Looking for a template?](https://scotentsd.github.io/help/#looking-for-a-template)
+- [Structure](https://scotentsd.github.io/help/#structure-on-the-080120)
+- [Need more help?](https://scotentsd.github.io/help/#need-more-help)
+- [How the blog is structured](https://scotentsd.github.io/help/#how-the-blog-is-structured-25012020)
+
 ## Blog
 The Blog page has code to display any posts in the **posts** folder. The default layout is in the **Layout** folder: post.html
 
@@ -176,7 +188,7 @@ Note: if your **blog post is going to have a lot of images**, then it's best to 
 
 `![alt text for your image ](/images/name of your new folder/image file name.png)`
 
-_If you folder as a space in it's name, the path name will need to have %20 instead of the space. For example, for the **tube map** folder, the path for the image is /images/tube%20map/_
+If you folder as a space in its name, the path name will need to have %20 instead of the space. For example, for the **tube map** folder, the path for the image is /images/tube%20map/
 
 
 

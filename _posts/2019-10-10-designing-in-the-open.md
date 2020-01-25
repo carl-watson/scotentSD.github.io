@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Designing in the open
+author: David
 ---
 
 The [Scottish Enterprise service design team](https://scotentsd.github.io/) is committed to designing in the open
 
-<!--more-->
-
 ## What does design in the open mean?
+
+<!--more-->
 
 ![Design in the open](/images/LeanAgileGlasgow_MK_and_DO.jpg)
 

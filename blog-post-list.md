@@ -7,7 +7,7 @@ permalink: /blog-post-list/
 <ul>
   {% for post in site.posts %}
       <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
+        <a href="{{ post.url }}" class="blog-post-title">{{ post.title }}</a>
         <div class="date">	
             Written on {{ post.date | date_to_string }} {% if post.author %} by {{post.author}} {% endif %}          	
        </div>	

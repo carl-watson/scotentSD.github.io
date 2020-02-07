@@ -148,7 +148,20 @@ Check the `Resources` repository first (the generic ones are there) or folders n
 
 If you want to **create a whole new project space**, than use the [Resource repository](https://github.com/scotentSD/resources) and from there select the green button like on the picture below 'Use this template' . This will then guide you to make a new repository with the same files and folder structure.
 
-![acreenshot of the Github repository showing the menu buttons](/images/show-use-this-template-button.png)
+![a screenshot of the Github repository showing the menu buttons](/images/show-use-this-template-button.png)
+
+Once your new repository is created, you will **need to make your first build**:
+- select Settings at the end of the top menu
+
+
+![a screenshot of the Github menu](/images/github-settings.PNG)
+
+- look for the **Github Pages** section on that page and there, select a theme (it has to be **Slate**) and click on the link to publish the website and view it (in the picture below these steps have been done already the link to click will be where you have the green background in the picture below)
+
+
+![a screenshot of the Github pages section](/images/github-page.PNG)
+
+Be patient, the build can take up to 10min.
 
 [[Back to Top]](https://scotentsd.github.io/help/)
 

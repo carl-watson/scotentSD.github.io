@@ -72,12 +72,12 @@ The partners also found it much easier to use than Sharepoint.
 
 ## Next steps:
 - Helping everyone in the team to add and write in github - training document is being drafted at the moment, and this website has a [**Help section**](https://scotentsd.github.io/help/) for this
-- There is a lot of PDF document, which is not ideal from an accessibility point of view, we need to find alternatives (HTML pages or else)
+- There is a lot of PDF documents, which is not ideal from an accessibility point of view, we need to find alternatives (HTML pages or else)
 - We need to get into the routine of adding regularly for each project
 - We are trying to find ways to use this during sprint Show and Tell
 - We are looking at communicating our findings with User Research participants, this is under construction and [will be on this page](https://scotentsd.github.io/feedback/)
 
 ## Note
-We are using [**Github and Jekyll**](https://scotentsd.github.io/resources/), but it could also work using Wordpress, or Umbraco for example. We could also imagine using something like the [**GOVUK prototype toolkit**](https://govuk-prototype-kit.herokuapp.com/docs/install) to create this website, as this could have the advantage to keep the team up to date by using it regularly. 
+We are using [**Github and Jekyll**](https://scotentsd.github.io/resources/), but it could also work using **Wordpress**, or **Umbraco** for example. We could also imagine using something like the [**GOVUK prototype toolkit**](https://govuk-prototype-kit.herokuapp.com/docs/install) to create this website, as this could have the advantage to keep the team up to date by using it regularly. 
 
 

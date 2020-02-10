@@ -21,7 +21,7 @@ If you are launching a new digital public service or redesigning an existing ser
 At the start of the Private Beta phase (August 2019) new people joined the project delivery team. The Alpha team (about 12 people) became the work stream 1 and focused on the frontend and the customers. 
 A new work stream 2 was created (about 12 people too) and focused on the backend and the partners and how they would provide the services and events for the end user: the customer.
 
-The partners (Business Gateway, Skills Development Scotland and Highland Islands Enterprise) were involved as much as possible, which added about 15 people to the project, who would access and contribute to the project documents.
+The partners (Business Gateway, Skills Development Scotland and Highlands Islands Enterprise) were involved as much as possible, which added about 15 people to the project, who would access and contribute to the project documents.
 
 We used a **Sharepoint space to store the day to day project documentation**, and **another Sharepoint space was used to store the documents needed as evidences for the D1 assessment**.
 

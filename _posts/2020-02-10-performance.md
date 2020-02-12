@@ -7,8 +7,6 @@ initials: do
 display_date: 10 February 2020
 ---
 
-# Measuring performance
-
 [FindBusinessSupport.gov.scot](https://findbusinesssupport.gov.scot) launched as a public Beta on 22 January. 
 
 Measuring how our service is performing is very important. So is being transparent about that.

@@ -1,6 +1,10 @@
-# Starting with Github
+---
+layout: page
+title: Starting with Github
+permalink: /new-to-github/
+---
 
-<div><span class="lou-y" >Under construction</span></div>
+<div><h2 class="lou-y" >Under construction</h2></div>
 
 Our files and code to make the website are here: [https://github.com/scotentSD](https://github.com/scotentSD)
 You don’t need to know how to code or use html /CSS.
@@ -13,7 +17,9 @@ The only thing you need is [**Mark Down**](https://github.com/adam-p/markdown-he
 Whenever you upload or delete a file,  make a change to an existing file or create a file in github, then you need to write a “commit” message.  This is a way for us to track what has been done. 
 
 The form should be: `your initials + short explanation of what you did`
+
 (more to add)
+
 plus example
 
 ## Change an existing file

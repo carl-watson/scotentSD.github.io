@@ -13,7 +13,8 @@ The only thing you need is [**Mark Down**](https://github.com/adam-p/markdown-he
 
 ## Understanding the structures of our repositories
 ### What's a repository?
-
+(add explanation)
+### Our main repositories:
 ![a screenshot of our pinned repositories](/images/our-repo.png)
 
 ### What's a commit message

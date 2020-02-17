@@ -4,7 +4,7 @@ title: Starting with Github
 permalink: /new-to-github/
 ---
 
-<div><h2 class="lou-y" >Under construction</h2></div>
+<div><h2 class="lou-y" style="text-align: center" >Under construction</h2></div>
 
 Our files and code to make the website are here: [https://github.com/scotentSD](https://github.com/scotentSD)
 You don’t need to know how to code or use html /CSS.
@@ -13,6 +13,9 @@ The only thing you need is [**Mark Down**](https://github.com/adam-p/markdown-he
 
 ## Understanding the structures of our repositories
 ### What's a repository?
+
+![a screenshot of our pinned repositories](/images/our-repo.png)
+
 ### What's a commit message
 Whenever you upload or delete a file,  make a change to an existing file or create a file in github, then you need to write a “commit” message.  This is a way for us to track what has been done. 
 
@@ -20,7 +23,8 @@ The form should be: `your initials + short explanation of what you did`
 
 (more to add)
 
-plus example
+#### Examples:
+![a screenshot of commit messages](/images/commit-examples.png)
 
 ## Change an existing file
 ## Change a file name (can’t if it’s a picture or pdf)

@@ -3,6 +3,13 @@ layout: page
 title: Help for our team
 permalink: /help/
 ---
+## Are you new to Github?
+If you are, then [**start here for an introduction**](https://scotentsd.github.io/new-to-github/)
+
+## Need help with Markdown or Jekyll?
+[Cheatsheet for markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+Also have a look at the [Resources](https://scotentsd.github.io/resources/) section.
 
 ## Quick access
 - [Blog](https://scotentsd.github.io/help/#blog)
@@ -12,8 +19,7 @@ permalink: /help/
 - [Posts for the project timelines](https://scotentsd.github.io/help/#posts-for-the-project-timelines)
 - [HTLM Changes to the Header and footer - Includes](https://scotentsd.github.io/help/#htlm-changes-to-the-header-and-footer----includes)
 - [Looking for a template?](https://scotentsd.github.io/help/#looking-for-a-template)
-- [Structure](https://scotentsd.github.io/help/#structure-on-the-080120)
-- [Need more help?](https://scotentsd.github.io/help/#need-more-help)
+- [Structure](https://scotentsd.github.io/help/#structure-on-the-17022020)
 - [How the blog is structured](https://scotentsd.github.io/help/#how-the-blog-is-structured-25012020)
 
 ## Blog
@@ -165,7 +171,7 @@ Be patient, the build can take up to 10min.
 
 [[Back to Top]](https://scotentsd.github.io/help/)
 
-## Structure (on the 08/01/20)
+## Structure (on the 17/02/20)
 Navigation menu:
 - About
 - Blog
@@ -176,6 +182,7 @@ Navigation menu:
 **Worstreams**
 - SEP
 - International Networks
+- South of Scotland Enterprise
 
 **Learning, resources and techniques**
 - Accessibility
@@ -184,13 +191,6 @@ Navigation menu:
 - Resources
 - Feedback
 - Personas
-
-[[Back to Top]](https://scotentsd.github.io/help/)
-
-## Need more help?
-[Cheatsheet for markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-Also have a look at the [Resources](https://scotentsd.github.io/resources/)
 
 [[Back to Top]](https://scotentsd.github.io/help/)
 

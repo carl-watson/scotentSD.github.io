@@ -24,7 +24,7 @@ footer a:hover, footer a:focus {
 }
 
 code {
-  background-color: #deeefb;
+  background-color: #ddd;
   box-shadow: none;
 }
 
@@ -100,11 +100,11 @@ Helpers
 /* Specify the color of the selection */
 ::-moz-selection {
   color: #000;
-  background: #ddd;
+  background: #deeefb;
 }
 ::selection {
   color: #000;
-  background: #ddd;
+  background: #deeefb;
 }
 
 iframe, video {

@@ -4,8 +4,6 @@ title: Starting with Github
 permalink: /new-to-github/
 ---
 
-<div><h2 class="lou-y" style="text-align: center" >Under construction</h2></div>
-
 Our files and code to make the website are here: [https://github.com/scotentSD](https://github.com/scotentSD)
 You don’t need to know how to code or use html / CSS.
 
@@ -25,13 +23,18 @@ The form should be: `your initials + short explanation of what you did`
 Here is the box where you would add your message:
 
 Before
+
 ![a screenshot of the commit input box and the description below with place holder text](/images/commit-message1.png)
+
 After
+
 ![a screenshot of the commit input box and the description with an example of message](/images/commit-message2.png)
+
 Then click on 'Commit changes'
 
 That's your changes confirmed.
 You will see the message appear at the top of the files in the repository with a blue background. After 1 minutes ot 5 minutes you should see a green tick next to the 'Latest commit' text.
+
 ![a screenshot of a commit message with a green tick](/images/commit-tick.png)
 
 #### Examples of commit messages:
@@ -39,29 +42,39 @@ You will see the message appear at the top of the files in the repository with a
 
 ## Change an existing file
 Select the file in the repository, and then select the pencil icon:
+
 ![a screenshot of the menu icons when you have selected a file](/images/edit-a-file.png)
+
 Make the changes you need. Add a commit message with your initials and a short description of what you changed.
 
 ## Change a file name
 You won't be able to do this for pictures or PDF you have uploaded. But for other files, you just need to select them, click on edit and then change the name of your file in the input box. You will need to commit this change and write a little message as explained above.
+
 ![a screenshot of the input box where the name of the file is now editable](/images/show-file-name-input.png)
 
 ## Upload a file 
 Note: if it's a pdf file or a picture you won’t be able to change their name after but will have to delete them, change the name, and then upload them again. So make sure you're ok with the name of your file before uploading it.
 
 1. go to the `files` or `images` folder and select 'Upload'
+
 ![a screenshot of the menu with the Upload button](/images/uploadicon.png)
+
 2. drag and drop your file(s) or browse to find them
+
 ![a screenshot of the area where you can drag and drop your files](/images/uploadbox.png)
+
 3. wait for them to be uploaded
+
 4. add a commit message with your initials
 
 ## Delete a file
 Select the file, click on it, and then click on the bin icon on the right. Add a commit message. Done. 
+
 ![a screenshot of the menu with the bin icon](/images/bin.png)
 
 ## Create a file (extension will be .md)
 Select the folder where you want to create your file. Use the 'Create new file' button
+
 ![a screenshot of the menu with the Upload button](/images/uploadicon.png)
 
 In the top box, you can write the name of the file (no space or special characters, but you can use dashes), don't forget the dot plus the extension `.md` if it's a markdown file.

@@ -3,7 +3,6 @@ layout: post
 title: How we provided evidence for the Digital First Assessment
 author: David, Martin, Stéphanie
 
-published: false
 ---
 
 Last November, we used this website to tell the story and provide evidences for our project **Find Business Support (FBS)** during our Beta Digital First Assessment.
